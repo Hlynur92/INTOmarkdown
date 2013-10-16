@@ -3,7 +3,8 @@
 ## 1. Linux uppsetning
      
     I used virtual box to install Linux Mint, I only gave it 512Mb ram so it was very slow but worked for this assignment.
-    ![alt text](http://s21.postimg.org/50csxngmv/Linuxmint.png "Logo Title Text 1")
+    
+![alt text](http://s21.postimg.org/50csxngmv/Linuxmint.png "Logo Title Text 1")
      
 ##  2. Uppsetning á vim && git
      
